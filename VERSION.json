@@ -1,6 +1,6 @@
 {
   "product": "Évora Launch OS",
-  "version": "3.2.2",
+  "version": "3.2.3",
   "release_date": "2026-06-05",
   "package": "standalone+docs",
   "standalone": true

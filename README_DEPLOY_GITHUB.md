@@ -1,1 +1,1 @@
-Abra e publique o index.html na raiz do GitHub Pages, junto com assets e .nojekyll.
+Publique index.html na raiz com assets/ e .nojekyll.
