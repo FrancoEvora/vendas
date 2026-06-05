@@ -1,0 +1,9 @@
+{
+  "product": "Évora Launch OS",
+  "version": "3.2.1",
+  "release_date": "2026-06-05",
+  "package": "corrigido",
+  "standalone": true,
+  "javascript_syntax_checked": true,
+  "fix": "state initialization and safe catalog fallbacks"
+}

@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "Évora Launch OS",
+    "version": "3.2.1",
+    "environment": "local-demo"
+  },
+  "branding": {
+    "primary_green": "#84C225",
+    "primary_blue": "#245E82",
+    "logo_path": "assets/logo_evora.png"
+  }
+}
